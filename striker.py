@@ -42,7 +42,7 @@ def heading():
                       `$"  `OOOO' `O"Y ' `OOOO'  o             .
     .                  .     OP"          : o     .
                               :                  ʙʏ: ''' + WHITE + '''theperfectcoder(''' + RED + '''4ᴡ4ᴋ3''' + WHITE + ''')''' + RED +  '''                                         
- -- [I]nsanity [F]ramework  --                            Version: 0.1                
+ -- [H]acking [F]ramework  --                            Version: 0.1                
 ''' + END)
 
 
@@ -108,7 +108,7 @@ mess()
 
 def help():
     print '''
-- [I]nsanity [F]ramework -
+- [H]acking [F]ramework -
     
 ᴛʏᴘᴇ {0}info{1} - {0}[{1}show info about victim{0}]{1}
 ᴛʏᴘᴇ {0}persistence{1} - {0}[{1}enable persistence{0}]{1}
